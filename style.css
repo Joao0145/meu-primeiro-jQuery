@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: wheat;
+    border-radius: 15%;
+}
+button {
+    background-color: coral;
+    border-radius: 35%;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
